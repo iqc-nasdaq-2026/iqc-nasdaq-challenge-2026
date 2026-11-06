@@ -126,7 +126,9 @@ dimension-5 strategies can exceed 100 MB (see "How to hand in `problem_5.npz`" a
 | 4 | `max(0, 1 - abs(your answer - true count) / true count)` |
 | 5 | `games.score(k, N)` with `k` your verified witnesses out of the `N` games you took on |
 
-We will assess all five scores and _only these scores_ when comparing teams and choosing winners.
+We will assess all five scores when comparing teams and choosing winners.
+This will constitute the objective part of the grading.
+
 
 **Anything goes computationally.** 
 Any algorithm, any library, any hardware. 
