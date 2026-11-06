@@ -3,7 +3,7 @@
 ## Getting Started
 First, clone the github repository for this repo:
 ```
-git clone [TODO: add url here]
+git clone https://github.com/iqc-nasdaq-2026/iqc-nasdaq-challenge-2026.git
 ```
 
 We strongly recommend using [uv](https://docs.astral.sh/uv/#uv) to easily reproduce our python environment and to run scripts. 
