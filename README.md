@@ -131,5 +131,7 @@ This will constitute the objective part of the grading.
 
 
 **Anything goes computationally.** 
-Any algorithm, any library, any hardware. 
-What we check are the solution files you hand in, not how you found the solutions.
+Feel free to use any algorithm, any library, or any hardware. 
+What will check are the solution files you hand in, not how you found the solutions.
+Whatever you do, make sure you understand it! 
+Be prepared to discuss what you did in your presentation.
