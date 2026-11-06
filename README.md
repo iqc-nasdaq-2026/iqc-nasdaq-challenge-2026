@@ -5,7 +5,7 @@
 First, **create your own repository from this template**: click **Use this template → Create a new repository** at the top of the repo page.
 Give it a name, and **set it to Private** (making it public would show your work to the other teams).
 
-Then clone your new repository to your laptops:
+Then clone your new repository to your laptops using
 ```
 git clone https://github.com/<your-username>/<your-repo-name>.git
 ```
